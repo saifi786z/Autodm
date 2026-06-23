@@ -18,12 +18,12 @@ from io import BytesIO
 
 # ==================== CONFIGURATION ====================
 
-API_ID = 6  # Replace with your API ID
-API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"  # Replace with your API Hash
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # Replace with your bot token
+API_ID = 38435572  # Replace with your API ID
+API_HASH = "ff57bb1c607e93c8b850668ebd11f642"  # Replace with your API Hash
+BOT_TOKEN = "8748735875:AAGixYIEqDh1DkqUku79FxZG4XKB68DIPRA"  # Replace with your bot token
 
 # Admin IDs (telegram user IDs of admins)
-ADMIN_IDS = [123456789, 987654321]  # Replace with your admin IDs
+ADMIN_IDS = [8674318569]  # Replace with your admin IDs
 
 # Emoji IDs for Telegram Premium
 EMOJIS = {
